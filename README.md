@@ -9,6 +9,14 @@
 
 ---
 
+## Download
+
+Try the latest build on your device:
+
+[![Download APK](https://img.shields.io/badge/Download_APK-GitHub_Release-2ea44f?style=for-the-badge&logo=github)](https://github.com/EngFred/RepoExplorer/releases/download/v1.0/RepoExplorer.apk)
+
+---
+
 ## Screenshots
 
 | Search & Pagination | Repository Details | Favorites (Offline) |
