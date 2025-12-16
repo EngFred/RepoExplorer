@@ -13,7 +13,7 @@
 
 | Search & Pagination | Repository Details | Favorites (Offline) |
 |:-------------------:|:------------------:|:-------------------:|
-| <img src="https://github.com/user-attachments/assets/9f3e0a1c-e136-46b4-ae0f-5060784aea7f" width="250" /> | <img src="https://github.com/user-attachments/assets/7b2bad0c-8057-479e-bb95-b0d32a829404" width="250" /> | <img src="https://github.com/user-attachments/assets/9f3e0a1c-e136-46b4-ae0f-5060784aea7f" width="250" /> |
+| <img src="https://github.com/user-attachments/assets/4dfaee86-0e8b-4f6f-a75a-2833c17b1bbb" width="250" /> | <img src="https://github.com/user-attachments/assets/fba93928-9617-4b81-b2b4-63d3d7ca6723" width="250" /> | <img src="https://github.com/user-attachments/assets/6298cb28-8196-4222-be9c-eeb1ea9f3c9b" width="250" /> |
 | *Infinite scrolling with Paging 3* | *2x2 Stats Grid & Readme Preview* | *Persisted via Room Database* |
 
 > *Note: Screenshots are placeholders. Please add images to a `docs/` folder in your repository.*
