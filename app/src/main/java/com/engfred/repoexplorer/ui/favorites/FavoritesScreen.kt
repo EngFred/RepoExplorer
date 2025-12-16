@@ -17,7 +17,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import androidx.hilt.navigation.compose.hiltViewModel
+import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 import com.engfred.repoexplorer.ui.common.RepoItem
 
 @Composable
@@ -31,7 +31,6 @@ fun FavoritesScreen(
         modifier = Modifier
             .fillMaxSize()
             .background(Color(0xFF0D1117))
-            .statusBarsPadding()
     ) {
         Text(
             text = "Saved Repositories",
